@@ -1,4 +1,3 @@
-
 def main(input: str) -> str:
     parts = input.split()
     if len(parts) != 3:
